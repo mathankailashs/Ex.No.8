@@ -1,7 +1,8 @@
 # Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-- **Date:**  01-11-2025
+- **Name:** Mathan kailash S
 - **Register No:** 212223060156
+- **Date:**  01-11-2025
 
 ---
 
